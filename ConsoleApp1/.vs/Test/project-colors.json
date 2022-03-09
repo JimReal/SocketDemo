@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "522d4f78-8129-41f4-bb57-3712f9c27c7b": {
+      "ProjectGuid": "522d4f78-8129-41f4-bb57-3712f9c27c7b",
+      "DisplayName": "Server",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "e25f379d-e347-4c5f-a50d-03565fa46556": {
+      "ProjectGuid": "e25f379d-e347-4c5f-a50d-03565fa46556",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    },
+    "4a8e278f-b734-47fd-ae0e-c4f76a5cdfad": {
+      "ProjectGuid": "4a8e278f-b734-47fd-ae0e-c4f76a5cdfad",
+      "DisplayName": "Server",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

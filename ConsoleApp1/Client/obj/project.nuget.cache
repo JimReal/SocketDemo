@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "flVIXVHXRdLPJczytXwA+qOTKcRCGHwyqwyb68P9aVJWjpd4JocA9FIHdZAmgg4zWa0q8+Bxbp3EvSi0byAAkw==",
+  "success": true,
+  "projectFilePath": "D:\\work\\Demo\\Server\\ConsoleApp1\\client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.10\\microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.10\\microsoft.extensions.logging.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.options\\3.1.10\\microsoft.extensions.options.3.1.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.10\\microsoft.extensions.primitives.3.1.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\supersocket.channel\\2.0.0-beta.10\\supersocket.channel.2.0.0-beta.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\supersocket.client\\2.0.0-beta.10\\supersocket.client.2.0.0-beta.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\supersocket.protobase\\2.0.0-beta.10\\supersocket.protobase.2.0.0-beta.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
